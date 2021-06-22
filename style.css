@@ -1,0 +1,12 @@
+body{
+    background-color: red;
+}
+div{
+    background-color: orange;
+    border: orangered;
+    border-width: 5px;
+    border-radius: 20;
+    border-style: ridge;
+    margin-right: 50px;
+    margin-left: 50px;
+}
